@@ -1,0 +1,27 @@
+{
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "name": "barnacle-mode",
+  "description": "Build up an object with streams",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connrs/node-barnacle-mode.git"
+  },
+  "main": "lib/barnacle-mode.js",
+  "scripts": {
+    "test": "node_modules/tape/bin/tape test/*.js"
+  },
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.txt"
+    }
+  ],
+  "author": "connrs",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.5.0"
+  }
+}
