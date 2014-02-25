@@ -4,7 +4,7 @@
   },
   "name": "barnacle-mode",
   "description": "Build up an object with streams",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/connrs/node-barnacle-mode.git"

@@ -1,4 +1,4 @@
-# Barnacle Mode [![Build Status](https://secure.travis-ci.org/connrs/barnacle-mode.png?branch=master)](http://travis-ci.org/connrs/barnacle-mode)
+# Barnacle Mode [![Build Status](https://secure.travis-ci.org/connrs/node-barnacle-mode.png?branch=master)](http://travis-ci.org/connrs/node-barnacle-mode)
 
 A shorthand for creating object mode streams. The intention is to have an object mode stream that receives an object, appends keys, and then pipes it on. Almost like middleware but streaming.
 
